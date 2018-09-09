@@ -5,3 +5,7 @@ PowerBI Desktop can be download for free, then load file "Grants Genie (GovHack_
 
 See team page at: 
 https://2018.hackerspace.govhack.org/projects/grants_genie_14
+
+Video at:
+https://www.youtube.com/watch?v=Z98tBLECq8w&feature=youtu.be
+
